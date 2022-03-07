@@ -1,0 +1,17 @@
+{
+    "Registration" : {
+        "firstNameInput" : "input[id='first-name']",
+        "lastNameInput" : "input[id='last-name']",
+        "emailInput" : "input[id='email']",
+        "passwordInput": "input[id='password']",
+        "passwordConfirmInput" : "input[id='password-confirmation']",
+        "termsCheckbox" : ":checkbox",
+        "submitBtn" : "button"
+    },
+
+    "Header" : {
+        "registBtn" : "a[href='/register']"
+    }
+
+
+}
